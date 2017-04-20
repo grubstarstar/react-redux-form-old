@@ -1,6 +1,6 @@
 {
   "name": "@grubstarstar/react-redux-form",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "components, reducers and actions for building forms in React.",
   "main": "index.js",
   "scripts": {
