@@ -18,5 +18,13 @@
     "react-native": "^0.39.2",
     "react-redux": "^4.4.5"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grubstarstar/react-redux-form.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grubstarstar/react-redux-form/issues"
+  },
+  "homepage": "https://github.com/grubstarstar/react-redux-form#readme"
 }
