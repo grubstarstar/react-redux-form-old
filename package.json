@@ -1,0 +1,22 @@
+{
+  "name": "@grubstarstar/react-redux-form",
+  "version": "0.1.1",
+  "description": "components, reducers and actions for building forms in React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Garner <richard.j.b.garner@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "redux",
+    "react",
+    "form"
+  ],
+  "peerDependencies": {
+    "react": "^15.4.2",
+    "react-native": "^0.39.2",
+    "react-redux": "^4.4.5"
+  },
+  "dependencies": {}
+}
