@@ -1,16 +1,17 @@
 {
-  "name": "@grubstarstar/react-redux-form",
+  "name": "@dc-react-native/react-redux-form",
   "version": "0.1.2",
-  "description": "components, reducers and actions for building forms in React.",
+  "description": "components, reducers and actions for building forms in React Native.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Richard Garner <richard.j.b.garner@gmail.com>",
+  "author": "Richard Garner <rich.garner@ratemyagent.com>",
   "license": "ISC",
   "keywords": [
     "redux",
     "react",
+    "react-native",
     "form"
   ],
   "peerDependencies": {
@@ -19,12 +20,5 @@
     "react-redux": "^4.4.5"
   },
   "dependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/grubstarstar/react-redux-form.git"
-  },
-  "bugs": {
-    "url": "https://github.com/grubstarstar/react-redux-form/issues"
-  },
-  "homepage": "https://github.com/grubstarstar/react-redux-form#readme"
+  "devDependencies": {}
 }
